@@ -1,74 +1,49 @@
-# Welcome to Vibe Coding 😎
+# ⚡ Ampere Electric Motor
 
-## Project info
+A modern, responsive web application showcasing scooter data for **Ampere Electric**, built using **TypeScript**, **Tailwind CSS**, and **Vite**. Includes **toast notifications** for improved user feedback and interaction.
 
-**URL**: https://lovable.dev/projects/eba5cde0-aa4a-44fc-845f-bb1deabcf369
+---
 
-## How can I edit this code?
+## 🚀 Features
 
-There are several ways of editing your application.
+- 🔧 **Scooter Data Integration** – Dynamic listing and display of Ampere scooters with details.
+- 🔔 **Toast Notifications** – User-friendly alerts for actions and events.
+- 💨 **Fast Dev Environment** – Powered by Vite for blazing-fast builds.
+- 🎨 **Tailwind CSS** – Utility-first styling for sleek and responsive design.
+- 💡 **TypeScript Support** – Ensures maintainable and scalable code.
+- 📦 **Bun & Node.js** Compatible – Optimized for modern JavaScript runtimes.
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/eba5cde0-aa4a-44fc-845f-bb1deabcf369) and start prompting.
+## 🛠️ Tech Stack
 
-Changes made via Lovable will be committed automatically to this repo.
+- **Framework**: Vite + React (if applicable)
+- **Languages**: TypeScript, HTML, CSS
+- **Styling**: Tailwind CSS
+- **Tooling**: Bun, ESLint, PostCSS
+- **Notifications**: Custom toast system
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 📸 Screenshots
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
-Follow these steps:
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+https://github.com/user-attachments/assets/95107520-d3cd-4a21-99dd-b36190096d41
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
 
-# Step 3: Install the necessary dependencies.
-npm i
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+---
 
-**Edit a file directly in GitHub**
+## 🙌 Contributing
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+- Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change.
 
-**Use GitHub Codespaces**
+---
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## 📄 License
 
-## What technologies are used for this project?
+- This project is open source and available under the MIT License.
 
-This project is built with:
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
 
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/eba5cde0-aa4a-44fc-845f-bb1deabcf369) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
-# Ampere-Electric-Vehicles
